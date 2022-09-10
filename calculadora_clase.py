@@ -53,7 +53,7 @@ else:
     print("opcion no valida ")
 
     # se escribe el resultado con otra condicion 
-if(opcion>7 and bandera==False):
+if(opcion<7 and bandera==False):
         print("Resultado =",z)
 
 #fin
